@@ -34,7 +34,7 @@ The performance of each model will be evaluated using established metrics approp
 
 <H2>One of the trained batches in classification</H2>
 
-![Picture10](https://github.com/srinivas21109/Classification-and-Segmentation-of-oral-Cancer-using-DinoV2-and-YOLOV8/assets/119849011/6ae45744-6785-41d0-8665-5e296d67f9d1)
+![Picture10](https://github.com/srinivas21109/Classification-and-Segmentation-of-oral-Cancer-using-DinoV2-and-YOLOV8/assets/119849011/6287b9d0-44a5-4c8d-af69-f806718c8f57)
 
 <H2>One of the trained batches in Segmentation</H2>
 
