@@ -34,7 +34,11 @@ The performance of each model will be evaluated using established metrics approp
 
 <H2>One of the trained batches in classification and segmentation</H2>
 
-![Picture10](https://github.com/srinivas21109/Classification-and-Segmentation-of-oral-Cancer-using-DinoV2-and-YOLOV8/assets/119849011/6287b9d0-44a5-4c8d-af69-f806718c8f57)  <p>  </p>  ![336804551-a5dbd327-1aee-4a7d-ac5a-68d5dcdf8aca](https://github.com/srinivas21109/Classification-and-Segmentation-of-oral-Cancer-using-DinoV2-and-YOLOV8/assets/119849011/0aecaf51-d0b6-4ef0-9b03-1d87db5fb0a1)
+![Picture10](https://github.com/srinivas21109/Classification-and-Segmentation-of-oral-Cancer-using-DinoV2-and-YOLOV8/assets/119849011/6287b9d0-44a5-4c8d-af69-f806718c8f57) 
+
+<H2>One of the trained batches in segmentation</H2>
+
+![336804551-a5dbd327-1aee-4a7d-ac5a-68d5dcdf8aca](https://github.com/srinivas21109/Classification-and-Segmentation-of-oral-Cancer-using-DinoV2-and-YOLOV8/assets/119849011/0aecaf51-d0b6-4ef0-9b03-1d87db5fb0a1)
 
 
 <H2>Predictions made using test set of Histopathology dataset</H2>
