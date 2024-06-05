@@ -47,7 +47,7 @@ The performance of each model will be evaluated using established metrics approp
 <H2>Confusion Matrices of histopathology and clinical datasets using dinov2</H2>
 
 ![Picture13](https://github.com/srinivas21109/Classification-and-Segmentation-of-oral-Cancer-using-DinoV2-and-YOLOV8/assets/119849011/0fd0a765-5bd0-42d8-af2d-3ae25c415f3d)
-<br>
+
 ![Picture14](https://github.com/srinivas21109/Classification-and-Segmentation-of-oral-Cancer-using-DinoV2-and-YOLOV8/assets/119849011/1fd76129-e9e5-46ea-a7ef-8d3277ec839f)
 
 
